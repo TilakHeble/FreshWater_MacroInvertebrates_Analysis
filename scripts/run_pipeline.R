@@ -1,0 +1,5 @@
+source("scripts/01_data_loading.R")
+source("scripts/02_data_cleaning.R")
+source("scripts/03_preprocessing.R")
+source("scripts/04_eda.R")
+source("scripts/05_modelling.R")
