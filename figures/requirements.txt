@@ -1,0 +1,13 @@
+arrow
+dplyr
+ggplot2
+mgcv
+gratia
+tidyr
+lubridate
+purrr
+forcats
+patchwork
+sf
+rnaturalearth
+rnaturalearthdata
